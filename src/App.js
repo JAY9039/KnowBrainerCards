@@ -1,6 +1,6 @@
 import Mainarea from "./Components/Mainarea";
 import Navbar from "./Components/Navbar";
-import {useState} from 'react';
+import { useState, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Components/Home";
 
