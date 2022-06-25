@@ -1,5 +1,5 @@
 {
-  "name": "boikeecards",
+  "name": "know-brainer-cards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A simple card game that tests you memory. This app is developed using React.js",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAY9039/KnowBrainerCards.git"
+  },
+  "author": "Jay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAY9039/KnowBrainerCards/issues"
+  },
+  "homepage": "https://github.com/JAY9039/KnowBrainerCards#readme"
 }
